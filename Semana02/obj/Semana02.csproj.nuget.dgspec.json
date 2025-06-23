@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\III Semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj": {}
+    "C:\\Users\\Enrique Gaguancela\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj": {}
   },
   "projects": {
-    "D:\\III Semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj": {
+    "C:\\Users\\Enrique Gaguancela\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\III Semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj",
+        "projectUniqueName": "C:\\Users\\Enrique Gaguancela\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj",
         "projectName": "Semana02",
-        "projectPath": "D:\\III Semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj",
-        "packagesPath": "C:\\Users\\Enrique GP\\.nuget\\packages\\",
-        "outputPath": "D:\\III Semestre\\Estructura de Datos (B)\\C#\\Semana02\\obj\\",
+        "projectPath": "C:\\Users\\Enrique Gaguancela\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana02\\Semana02.csproj",
+        "packagesPath": "C:\\Users\\Enrique Gaguancela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Enrique Gaguancela\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Enrique GP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Enrique Gaguancela\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
