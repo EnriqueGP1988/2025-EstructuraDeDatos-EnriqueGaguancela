@@ -1,0 +1,28 @@
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.exe
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.deps.json
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.runtimeconfig.json
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.dll
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.pdb
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.GeneratedMSBuildEditorConfig.editorconfig
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.AssemblyInfoInputs.cache
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.AssemblyInfo.cs
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.csproj.CoreCompileInputs.cache
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.dll
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\refint\Ejercicio#2.dll
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.pdb
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.genruntimeconfig.cache
+D:\III Semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\ref\Ejercicio#2.dll
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.exe
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.deps.json
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.runtimeconfig.json
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.dll
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\bin\Debug\net9.0\Ejercicio#2.pdb
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.AssemblyInfoInputs.cache
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.AssemblyInfo.cs
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.dll
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\refint\Ejercicio#2.dll
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.pdb
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\Ejercicio#2.genruntimeconfig.cache
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana07\Ejercicio#2\obj\Debug\net9.0\ref\Ejercicio#2.dll
